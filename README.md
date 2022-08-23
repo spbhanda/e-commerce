@@ -1,16 +1,17 @@
 # e-commerce
 
-## Purpose
+## Description
 
-A backend application for an ecommerce website to have categories, products, and tags and associations between them to create a website
+This is a backend application for an ecommerce website. The app uses Sequlize to create and store data in tables for product items. 
+The app have categories, products, and tags tables for the products. 
 
 ## Technologies
 
 -  Node.js
--  Javascript
--  Mysql and Sequelize
 -  Express.js
--  dotenv
+-  Javascript
+-  Sequelize
+
 
 ## Video Demonstration
 
